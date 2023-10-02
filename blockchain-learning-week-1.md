@@ -1,7 +1,7 @@
 # **BlockChain Summary**
 ## **1. Concept Of Blockchain**
 
-**![N|Solid](https://png.pngtree.com/png-clipart/20230128/original/pngtree-blockchain-vector-transparent-image-png-image_8933372.png)**
+**![N|Solid](https://cdn.vectorstock.com/i/1000x1000/33/07/modern-block-chain-technology-logo-design-vector-44033307.webp)**
 
 ## What is Blockchain?
 A **Blockchain** is “a distributed database that maintains a continuously growing list of ordered records, called blocks.” These blocks “are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data.
