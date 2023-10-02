@@ -23,8 +23,8 @@ A blockchain is a decentralized, distributed and public digital ledger that is u
 The main difference is centralization, while traditional databases were centralized means they were controlled by some individual or an authority which make them easy to tampered with. But the scenerio with Blockchain were different, being a decentralized tech made it nearly impossbile to tampere with by any other individual. That's why Blockchain is used in maintaining secure and decentralized records of [cryptocurrencies](https://www.geeksforgeeks.org/what-is-a-cryptocurrency/) transactions. 
 
 > ## **Facts!!** 
->  **The Concept of Blockchain Has Been Around Since the Early 1980s : A quick glance at the history shows that the concept of a decentralised and distributed database of transactions was originally outlined in the early 1980s. However, it was only with a 1991 white paper by Stuart Haber and W. Scott Stornetta that the idea of how to time-stamp a digital document became reality. 
->And now As of 2023, there have been over 82 million Blockchain cryptocurrency wallet users.**
+- >  **The Concept of Blockchain Has Been Around Since the Early 1980s : A quick glance at the history shows that the concept of a decentralised and distributed database of transactions was originally outlined in the early 1980s. However, it was only with a 1991 white paper by Stuart Haber and W. Scott Stornetta that the idea of how to time-stamp a digital document became reality. 
+- > And now As of 2023, there have been over 82 million Blockchain cryptocurrency wallet users.**
 
 
 ## **2. Working of Blockchain**
