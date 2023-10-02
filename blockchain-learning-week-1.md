@@ -28,9 +28,10 @@ The main difference is centralization, while traditional databases were centrali
 
 
 ## **2. Working of Blockchain**
-**Transaction** : Blockchain transaction is nothing but data transmission across the network of computers in a blockchain system.
-**How Blockchain Transaction works? !!**
+- **Transaction** : Blockchain transaction is nothing but data transmission across the network of computers in a blockchain system.
+- **How Blockchain Transaction works? !!**
 This might be the question everyone thinks when trying to learn about blockchain, we will learn about it and cover everything about it in three stages: Transaction creation, verification, and block addition to the chain.
+
 ## Transaction Creation
 - **(i)** Transactions are initiated from users end who want to transfer digital assets or any digital info.
 - **(ii)** The user creates a transaction by specifying the sender, recipient, amount, and any additional data or conditions relevant to the specific blockchain application.
@@ -55,35 +56,39 @@ This might be the question everyone thinks when trying to learn about blockchain
 - It is a algorithm that is used in transaction to meet a common agreement among users.
 the consensus protocol makes sure that every new block that is added to the Blockchain is the one and only version of the truth that is agreed upon by all the nodes in the Blockchain.
 - **There are many types of [Consensus algorithms](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/):**
-**i.** Proof of Work (PoW)
-**ii.** Proof of Stake (PoS)
-**iii.** proof of importance (PoI)
-**iv.** Proof of capacity (PoC)
-**v.** Proof Of Burn (PoB)
+- **i.** Proof of Work (PoW)
+- **ii.** Proof of Stake (PoS)
+- **iii.** proof of importance (PoI)
+- **iv.** Proof of capacity (PoC)
+- **v.** Proof Of Burn (PoB)
 
 ## **3. Key Components of Blockchain**
-**i. Miners :** Miners are an essential part of the blockchain network. They are responsible for verifying transactions and adding them to the blockchain. Miners use powerful computers to solve complex mathematical problems that allow them to validate transactions.
-**ii. Blocks :** Block is a place in a blockchain where data is stored. In the case of cryptocurrency blockchains, the data stored in a block are transactions. These blocks are chained together by adding the previous block's hash to the next block's header.
-**iii. Chain :** In blockchain the blocks where data is stored link together to form a type of network chain. This chain increases as the no of transaction increases.
-**iv. Node :** A node in Blockchain refers to a computer or device connected to a Blockchain network. It plays a vital role in the distributed ledger technology by validating transactions and maintaining the integrity of the network.
+- **i. Miners :** Miners are an essential part of the blockchain network. They are responsible for verifying transactions and adding them to the blockchain. Miners use powerful computers to solve complex mathematical problems that allow them to validate transactions.
+- **ii. Blocks :** Block is a place in a blockchain where data is stored. In the case of cryptocurrency blockchains, the data stored in a block are transactions. These blocks are chained together by adding the previous block's hash to the next block's header.
+- **iii. Chain :** In blockchain the blocks where data is stored link together to form a type of network chain. This chain increases as the no of transaction increases.
+- **iv. Node :** A node in Blockchain refers to a computer or device connected to a Blockchain network. It plays a vital role in the distributed ledger technology by validating transactions and maintaining the integrity of the network.
 **![N|Solid](https://kalkinemedia.com/storage/uploads/original/1602671632_5f86d410255c3_mceclip0.png)**
+
 ## Significance of cryptographic hash functions in linking blocks
-Cryptographic hash functions play a crucial role in blockchain technology by ensuring data integrity, security, and linking blocks in efficient manner.
-Each block in a blockchain contains a hash of the previous block's data, typically referred to as the "previous block's hash." This linkage is achieved by including the hash of the previous block in the current block's data before hashing. This forms a chain of blocks, as changing the data in a block would require recalculating its hash, which would, in turn, alter the subsequent block's hash. This linkage ensures the integrity of the entire blockchain.
+- Cryptographic hash functions play a crucial role in blockchain technology by ensuring data integrity, security, and linking blocks in efficient manner.
+- Each block in a blockchain contains a hash of the previous block's data, typically referred to as the "previous block's hash." This linkage is achieved by including the hash of the previous block in the current block's data before hashing. This forms a chain of blocks, as changing the data in a block would require recalculating its hash, which would, in turn, alter the subsequent block's hash. This linkage ensures the integrity of the entire blockchain.
 **![N|Solid](https://hackernoon.imgix.net/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-g893iox.jpeg)**
+
 ## **4.Cryptocurrency**
 ![N|Solid](https://www.wallstreetmojo.com/wp-content/uploads/2018/01/Cryptocurrency-1.jpg.webp)
 ## What is Cryptocurrency? & How does Crypto uses Blockchain to ensure its security?
-Cryptocurrency is a digital payment system that does not rely on banks to verify transactions. Cryptocurrency payments exist purely as digital entries to an online database. Which means it can only be used digitally.
-So now the main question: **How crypto relates to Blockchain?**
-Well we now know that crypto is nothing but an asset for us even though it is digitally but it is something that is important to us, being something precious it requires a very secure environment to handle it and here Blockchain comes to play, we all know how good blockchain is in terms of security because of this exact reason blockchain is used to develope frameworks that helps in managing crypto. Whether it is to store it or transfer it blockchain helps us to do it safely and securily as it is a decentralized tech means no other person can get access to it except the owner. It also stores the records of transactions done with the crypto.
-**How Blockchain is used in this?**
-Well blockchain assign private key to the user which is just like your fingerprint meanning it is unique. Unlike public Key which is known to everyone private keys is the one and only key user can use to do transactions, without it even the owner can't access the records and object which is stored in this case crypto. 
+- Cryptocurrency is a digital payment system that does not rely on banks to verify transactions. Cryptocurrency payments exist purely as digital entries to an online database. Which means it can only be used digitally.
+- So now the main question: **How crypto relates to Blockchain?**
+- Well we now know that crypto is nothing but an asset for us even though it is digitally but it is something that is important to us, being something precious it requires a very secure environment to handle it and here Blockchain comes to play, we all know how good blockchain is in terms of security because of this exact reason blockchain is used to develope frameworks that helps in managing crypto. Whether it is to store it or transfer it blockchain helps us to do it safely and securily as it is a decentralized tech means no other person can get access to it except the owner. It also stores the records of transactions done with the crypto.
+
+- **How Blockchain is used in this?**
+- Well blockchain assign private key to the user which is just like your fingerprint meanning it is unique. Unlike public Key which is known to everyone private keys is the one and only key user can use to do transactions, without it even the owner can't access the records and object which is stored in this case crypto. 
+
 ## Important Terms in Crypto
-**i. Wallet** : A cryptocurrency wallet is an application that functions as a wallet for your cryptocurrency. It is called a wallet because it is used similarly to a wallet you put cash and cards in. Instead of holding these physical items, it stores the passkeys you use to sign for your cryptocurrency transactions and provides the interface that lets you access your crypto.
-**ii. Private keys :** A private key is a long alphanumeric code that acts similarly to a password. Private keys are used to authorize cryptocurrency transactions. Your private key is generated by your wallet and is used to create your public key
-**iii. Public Keys :** A public key allows you to receive cryptocurrency transactions. It's a cryptographic code that's paired to a private key. While anyone can send transactions to the public key, you need the private key to “unlock” them and prove that you are the owner of the cryptocurrency received in the transaction.
-**iv. Addresses :** A crypto address is a unique identifier, composed by a string of letters and numbers, that serves as a virtual location to where a cryptocurrency can be sent
+- **i. Wallet** : A cryptocurrency wallet is an application that functions as a wallet for your cryptocurrency. It is called a wallet because it is used similarly to a wallet you put cash and cards in. Instead of holding these physical items, it stores the passkeys you use to sign for your cryptocurrency transactions and provides the interface that lets you access your crypto.
+- **ii. Private keys :** A private key is a long alphanumeric code that acts similarly to a password. Private keys are used to authorize cryptocurrency transactions. Your private key is generated by your wallet and is used to create your public key
+- **iii. Public Keys :** A public key allows you to receive cryptocurrency transactions. It's a cryptographic code that's paired to a private key. While anyone can send transactions to the public key, you need the private key to “unlock” them and prove that you are the owner of the cryptocurrency received in the transaction.
+- **iv. Addresses :** A crypto address is a unique identifier, composed by a string of letters and numbers, that serves as a virtual location to where a cryptocurrency can be sent
 
  
 ![N|Solid](https://cdn1.technologyevaluation.com/getattachment/a16365ee-33c4-5d00-83b8-600370329b90/shutterstock_773006656-cryptocurrency-blockchain-laptop-connected.png?source=tw2&ext=.png&width=500&height=250)
