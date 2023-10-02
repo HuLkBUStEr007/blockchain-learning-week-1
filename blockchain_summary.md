@@ -4,7 +4,7 @@
 This repository contains assignments for Week 1 of the Blockchain Learning curriculum, focusing on Blockchain basics and JavaScript fundamentals.
 
 ## Exercises:
- - Run Guide: Use `index.html` to run these programs in chrome console. 
+#Run Guide: Use `index.html` to run these programs in chrome console. 
 
 1. **Variables and Data Types:**
    - File: `exercise1.js`
