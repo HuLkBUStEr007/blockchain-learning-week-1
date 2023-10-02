@@ -8,7 +8,7 @@ Run Guide: Use `index.html` to run these programs in chrome console.
    - File: `exercise2.js`
 
 3. **Functions:**
-   - File: `exercise3.js`
+   - File: `exercise3.js`,`exercise5.js`,`exercise7.js`
 
 4. **Objects:**
    - File: `exercise4.js`
