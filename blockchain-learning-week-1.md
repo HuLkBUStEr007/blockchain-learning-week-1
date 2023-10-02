@@ -32,31 +32,35 @@ The main difference is centralization, while traditional databases were centrali
 **How Blockchain Transaction works? !!**
 This might be the question everyone thinks when trying to learn about blockchain, we will learn about it and cover everything about it in three stages: Transaction creation, verification, and block addition to the chain.
 ## Transaction Creation
-**(i)** Transactions are initiated from users end who want to transfer digital assets or any digital info.
-**(ii)** The user creates a transaction by specifying the sender, recipient, amount, and any additional data or conditions relevant to the specific blockchain application.
-**(iii)** The transaction is done using the private key of the sender that acts as a unique identity proof of the sender.
+- **(i)** Transactions are initiated from users end who want to transfer digital assets or any digital info.
+- **(ii)** The user creates a transaction by specifying the sender, recipient, amount, and any additional data or conditions relevant to the specific blockchain application.
+- **(iii)** The transaction is done using the private key of the sender that acts as a unique identity proof of the sender.
+
 ## Transaction Verification
-Blockchain transaction verification stands as a fundamental process intrinsic to the functioning of blockchain technology.
-It facilitates the validation and addition of transactions to the blockchain ledger - a form of a digital and distributed ledger. Grasping the essence of this process is a step toward deciphering the multifaceted potential of blockchain technology.
+- Blockchain transaction verification stands as a fundamental process intrinsic to the functioning of blockchain technology.
+- It facilitates the validation and addition of transactions to the blockchain ledger - a form of a digital and distributed ledger. Grasping the essence of this process is a step toward deciphering the multifaceted potential of blockchain technology.
 **![N|Solid](https://s3.cointelegraph.com/storage/uploads/view/9f3e567803b4c29aaf63c50bf50fe946.png)**
+
 ## Block Addition to the Chain
-There are different consensus mechanisms used to verify transactions and add new blocks to a blockchain. In cryptocurrency, the most common methods are proof-of-work and proof-of-stake.
-We will soon learn about consensus mechanics.
+- There are different consensus mechanisms used to verify transactions and add new blocks to a blockchain. In cryptocurrency, the most common methods are proof-of-work and proof-of-stake.
+- We will soon learn about consensus mechanics.
+
 ## What are Miners & How they are important?
-Miners are an essential part of the blockchain network. They are responsible for verifying transactions and adding them to the blockchain. Miners use powerful computers to solve complex mathematical problems that allow them to validate transactions.
+- Miners are an essential part of the blockchain network. They are responsible for verifying transactions and adding them to the blockchain. Miners use powerful computers to solve complex mathematical problems that allow them to validate transactions.
+- In order to add a transaction to the blockchain, a miner must first verify that the transaction is valid. This involves checking that the sender has enough funds to complete the transaction and that the transaction has not already been recorded on the blockchain.
 
-In order to add a transaction to the blockchain, a miner must first verify that the transaction is valid. This involves checking that the sender has enough funds to complete the transaction and that the transaction has not already been recorded on the blockchain.
+- Once a miner has verified a transaction, they add it to a block along with other verified transactions. The miner then uses their computing power to solve a cryptographic puzzle that allows them to add the block to the blockchain. This process is called mining.
 
-Once a miner has verified a transaction, they add it to a block along with other verified transactions. The miner then uses their computing power to solve a cryptographic puzzle that allows them to add the block to the blockchain. This process is called mining.
 ## Concept of Consensus
-It is a algorithm that is used in transaction to meet a common agreement among users.
+- It is a algorithm that is used in transaction to meet a common agreement among users.
 the consensus protocol makes sure that every new block that is added to the Blockchain is the one and only version of the truth that is agreed upon by all the nodes in the Blockchain.
-**There are many types of [Consensus algorithms](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/):**
+- **There are many types of [Consensus algorithms](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/):**
 **i.** Proof of Work (PoW)
 **ii.** Proof of Stake (PoS)
 **iii.** proof of importance (PoI)
 **iv.** Proof of capacity (PoC)
 **v.** Proof Of Burn (PoB)
+
 ## **3. Key Components of Blockchain**
 **i. Miners :** Miners are an essential part of the blockchain network. They are responsible for verifying transactions and adding them to the blockchain. Miners use powerful computers to solve complex mathematical problems that allow them to validate transactions.
 **ii. Blocks :** Block is a place in a blockchain where data is stored. In the case of cryptocurrency blockchains, the data stored in a block are transactions. These blocks are chained together by adding the previous block's hash to the next block's header.
@@ -80,4 +84,6 @@ Well blockchain assign private key to the user which is just like your fingerpri
 **ii. Private keys :** A private key is a long alphanumeric code that acts similarly to a password. Private keys are used to authorize cryptocurrency transactions. Your private key is generated by your wallet and is used to create your public key
 **iii. Public Keys :** A public key allows you to receive cryptocurrency transactions. It's a cryptographic code that's paired to a private key. While anyone can send transactions to the public key, you need the private key to “unlock” them and prove that you are the owner of the cryptocurrency received in the transaction.
 **iv. Addresses :** A crypto address is a unique identifier, composed by a string of letters and numbers, that serves as a virtual location to where a cryptocurrency can be sent
+
+ 
 ![N|Solid](https://cdn1.technologyevaluation.com/getattachment/a16365ee-33c4-5d00-83b8-600370329b90/shutterstock_773006656-cryptocurrency-blockchain-laptop-connected.png?source=tw2&ext=.png&width=500&height=250)
